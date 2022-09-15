@@ -1,0 +1,40 @@
+// logo-header
+.logotype {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: Raleway;
+    display: block;
+    text-decoration: none;
+    @media (max-width: 480px) {
+        margin-top: 16px;
+        margin-bottom: 16px;
+        margin-left: 15px;
+    }
+}
+.web {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+.studio-text {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    color: #000000
+}
+// logo-footer
+.logotype-footer {
+    font-family: Raleway;
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.footer-studio {
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    line-height: 1.2;
+}

@@ -1,0 +1,21 @@
+/* icon */
+.mail__icon,
+.tel__icon {
+    fill: currentColor;
+    margin-right: 10px;
+}
+
+// .team-social {
+//     display: flex;
+//     justify-content: center;
+//     gap: 10px;
+// }
+
+.social__icon {
+    fill: #AFB1B8;
+    transition: color 250ms var(--cubic-bezier);
+}
+.icon-cross {
+}
+.icon-menu {
+}
